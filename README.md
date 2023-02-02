@@ -73,14 +73,14 @@ Expand the triangles below to collapse the tabs.
 <summary style="font-size:1.25em; font-weight: 600"> Step 1: Storyboard Layout 📱 </summary>
 
 We want to set up a UI that prompts users to input information about themselves. We'll need to provide the following:
-- [ ] First name
-- [ ] Last name
-- [ ] School name
-- [ ] Academic year
-- [ ] Number of pets
-- [ ] Wants more pets?
-- [ ] Image of the school logo
-- [ ] Button to generate an introduction 
+- [x] First name
+- [x] Last name
+- [x] School name
+- [x] Academic year
+- [x] Number of pets
+- [x] Wants more pets?
+- [x] Image of the school logo
+- [x] Button to generate an introduction 
 
 On the top right, select the "+" button or `Shift` +  `Command` + `L` to open the Objects Library
 
@@ -95,18 +95,18 @@ After adding the essential elements, we need to appropriately name them so that 
 After appropriately naming all of your new items, the view controller should look like the one shown below. 
 
 There should be:
-- [ ] First label
-- [ ] Edit text for filling out the first name
-- [ ] Last label
-- [ ] Edit text for filling out the last name
-- [ ] School label
-- [ ] Edit text for filling out the school name
-- [ ] A segmented control for the academic year
-- [ ] Number of pets label
-- [ ] Wants more pets? Switch
-- [ ] A stepper to choose how many more
-- [ ] Image of the school logo
-- [ ] Button to generate an introduction 
+- [x] First label
+- [x] Edit text for filling out the first name
+- [x] Last label
+- [x] Edit text for filling out the last name
+- [x] School label
+- [x] Edit text for filling out the school name
+- [x] A segmented control for the academic year
+- [x] Number of pets label
+- [x] Wants more pets? Switch
+- [x] A stepper to choose how many more
+- [x] Image of the school logo
+- [x] Button to generate an introduction 
 
 <a href="/course_images/ios102/prework/Storyboard.png" target="_blank"><img src='/course_images/ios102/prework/Storyboard.png' title='View controller after dragging in all of the elements form the Objects Library' width='400' alt='View controller after dragging in all of the elements form the Objects Library' /></a>
 
@@ -276,11 +276,11 @@ Copy and paste the following [README](prework_grading.md) into your GitHub READM
 
 The preworked is considered complete when:
 
-- [ ] User can input name, last name, school name into textfield
-- [ ] Screen shows picture of school logo/name
-- [ ] User can select the academic year from segmented control
-- [ ] Increase the number of pets label using stepper
-- [ ] App presents an alert when the "Introduce Self" button is tapped
+- [x] User can input name, last name, school name into textfield
+- [x] Screen shows picture of school logo/name
+- [x] User can select the academic year from segmented control
+- [x] Increase the number of pets label using stepper
+- [x] App presents an alert when the "Introduce Self" button is tapped
 
 
 </details>
