@@ -7,7 +7,7 @@
 ### App Walk-though
 
 
-<img src="https://github.com/yassir20191/codepathprework/blob/main/CodePathGifSubmission.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> 
+<img src="https://github.com/yassir20191/codepathprework/blob/main/CodePathGifSubmission.gif" width=200><br> OR <img src="https://github.com/yassir20191/codepathprework/blob/main/CodePathGifSubmission.gif" width=200><br> 
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
